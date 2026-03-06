@@ -94,11 +94,9 @@ Building scalable data systems, cloud analytics platforms, and modern web applic
 
 ---
 
-# Contribution Snake
+## Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/dev-dheerajmaurya/dev-dheerajmaurya/output/github-contribution-grid-snake.svg">
-</p>
+![snake gif](https://raw.githubusercontent.com/dev-dheerajmaurya/dev-dheerajmaurya/output/github-contribution-grid-snake.svg)
 
 ---
 
