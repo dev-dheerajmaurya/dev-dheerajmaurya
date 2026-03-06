@@ -33,7 +33,7 @@
 - 🔭 **Currently working on:** [USG Reporter - Medical SaaS Reporting Platform](https://center.ingeeks.in)
 - 🌱 **Currently learning:** Advanced Data Science and AI concepts
 - 💬 **Ask me about:** SQL optimization, React, Next.js, and PostgreSQL
-- 📄 **Resume:** [View my experiences here](https://drive.google.com/file/d/1-eNip-ZbhWdjvZw5vPbbl_Em-5F-h5Wa/view?usp=sharing)
+- 📄 **Resume:** [View my experiences here](https://drive.google.com/file/)
 
 <br/>
 
