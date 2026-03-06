@@ -14,8 +14,8 @@
 
 ### 💠 Executive System Status
 * **Location:** India
-* **Current Node:** USG Reporter - Multi-tenant Medical SaaS [cite: 46, 100, 149]
-* **Architecture Setup:** Seamless hot-swapping between PostgreSQL and MongoDB[cite: 101, 151].
+* [cite_start]**Current Node:** USG Reporter - Multi-tenant Medical SaaS [cite: 46, 100, 149]
+* [cite_start]**Architecture Setup:** Seamless hot-swapping between PostgreSQL and MongoDB[cite: 101, 151].
 * **Core Objective:** Transitioning operational workflows into high-velocity backend solutions.
 
 ---
@@ -43,9 +43,9 @@
 
 | System | Architecture | Status |
 | :--- | :--- | :--- |
-| **Cloud Sales Analytics** [cite: 34, 88, 137] | Next.js, Azure SQL, Blob Storage [cite: 89, 90, 138, 139] | 🟢 Active Pipeline |
-| **USG Reporter** [cite: 46, 100, 149] | Next.js 14, TypeScript, Docker [cite: 101, 151] | 🟢 Deployed |
-| **TripAnchor Verification** [cite: 41, 95, 144] | PostgreSQL, Secure Backend APIs [cite: 42, 43, 98, 147] | 🟢 Live Monitoring |
+| [cite_start]**Cloud Sales Analytics** [cite: 34, 88, 137] | [cite_start]Next.js, Azure SQL, Blob Storage [cite: 89, 90, 138, 139] | 🟢 Active Pipeline |
+| [cite_start]**USG Reporter** [cite: 46, 100, 149] | [cite_start]Next.js 14, TypeScript, Docker [cite: 101, 151] | 🟢 Deployed |
+| [cite_start]**TripAnchor Verification** [cite: 41, 95, 144] | [cite_start]PostgreSQL, Secure Backend APIs [cite: 42, 43, 98, 147] | 🟢 Live Monitoring |
 
 ---
 
