@@ -1,0 +1,24 @@
+name: WakaTime System Telemetry
+
+on:
+  schedule:
+    # Runs at 12:00 AM UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Inject WakaTime Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          SHOW_TIMEZONES: false
+          SHOW_LANGUAGE: true
+          SHOW_OS: false
+          SHOW_PROJECTS: false
