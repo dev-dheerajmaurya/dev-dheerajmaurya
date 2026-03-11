@@ -42,29 +42,17 @@
 <!--START_SECTION:waka-alltime-->
 <!--END_SECTION:waka-alltime-->
 
-<details>
-<summary>📅 Last 7 Days</summary>
-
+**📅 Last 7 Days**
 <!--START_SECTION:waka-week-->
 <!--END_SECTION:waka-week-->
 
-</details>
-
-<details>
-<summary>🗓️ Last 30 Days</summary>
-
+**🗓️ Last 30 Days**
 <!--START_SECTION:waka-month-->
 <!--END_SECTION:waka-month-->
 
-</details>
-
-<details>
-<summary>📆 Last Year</summary>
-
+**📆 Last Year**
 <!--START_SECTION:waka-year-->
 <!--END_SECTION:waka-year-->
-
-</details>
 
 ---
 
