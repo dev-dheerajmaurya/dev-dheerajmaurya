@@ -39,6 +39,15 @@
 ### ⏱️ Developer Telemetry (WakaTime)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 03 March 2026 - To: 10 March 2026
+
+Total Time: 7 mins
+
+JavaScript   7 mins                █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
