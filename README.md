@@ -38,21 +38,8 @@
 
 ### ⏱️ Developer Telemetry (WakaTime)
 
-**🕐 All Time**
-<!--START_SECTION:waka-alltime-->
-<!--END_SECTION:waka-alltime-->
-
-**📅 Last 7 Days**
-<!--START_SECTION:waka-week-->
-<!--END_SECTION:waka-week-->
-
-**🗓️ Last 30 Days**
-<!--START_SECTION:waka-month-->
-<!--END_SECTION:waka-month-->
-
-**📆 Last Year**
-<!--START_SECTION:waka-year-->
-<!--END_SECTION:waka-year-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 

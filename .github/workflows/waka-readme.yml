@@ -2,8 +2,9 @@ name: Waka Readme
 
 on:
   schedule:
+    # Runs at 00:00 UTC every day
     - cron: "0 0 * * *"
-  workflow_dispatch:
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   update-readme:
@@ -11,50 +12,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: All Time Stats
-        uses: athul/waka-readme@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SECTION_NAME: waka-alltime
-          TIME_RANGE: all_time
           SHOW_TITLE: true
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          COMMIT_MESSAGE: "⏱️ Update WakaTime — All Time"
-
-      - name: Last 7 Days Stats
-        uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SECTION_NAME: waka-week
           TIME_RANGE: last_7_days
-          SHOW_TITLE: true
           SHOW_TIME: true
           SHOW_TOTAL: true
-          COMMIT_MESSAGE: "⏱️ Update WakaTime — Last 7 Days"
-
-      - name: Last 30 Days Stats
-        uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SECTION_NAME: waka-month
-          TIME_RANGE: last_30_days
-          SHOW_TITLE: true
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          COMMIT_MESSAGE: "⏱️ Update WakaTime — Last 30 Days"
-
-      - name: Last Year Stats
-        uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SECTION_NAME: waka-year
-          TIME_RANGE: last_year
-          SHOW_TITLE: true
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          COMMIT_MESSAGE: "⏱️ Update WakaTime — Last Year"
+          COMMIT_MESSAGE: "⏱️ Update WakaTime Developer Telemetry"
+          STOP_AT_OTHER: false
