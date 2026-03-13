@@ -36,7 +36,7 @@
 
 ---
 
-### ⏱️ Developer Telemetry (WakaTime)
+### ⏱️ Developer Telemetry
 
 <!--START_SECTION:waka-->
 
