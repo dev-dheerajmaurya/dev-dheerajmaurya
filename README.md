@@ -14,9 +14,9 @@
 
 ### 💠 Executive System Status
 * **Location:** India
-* **Current Node:** USG Reporter - Multi-tenant Medical SaaS
-* **Architecture Setup:** Seamless hot-swapping between PostgreSQL and MongoDB.
-* **Core Objective:** Transitioning operational workflows into high-velocity backend solutions.
+* **Current Node:** PharmaTrack — Supply Chain Management for Pharmaceuticals
+* **Architecture Setup:** The project is built as a monorepo, allowing both the Next.js frontend and the Node.js/Express backend to be deployed together seamlessly on Vercel. It utilizes serverless functions for the backend API and connects to a PostgreSQL database managed via Prisma ORM
+* **Core Objective:** The primary goal of this project is to automate pharmaceutical distribution using the FEFO (First-Expired-First-Out) algorithm. This ensures that hospitals prioritize older inventory, preventing the accidental administration of expired medications to patients.
 
 ---
 
@@ -57,9 +57,9 @@ Other        0 secs                ▒░░░░░░░░░░░░░░
 
 | System | Architecture | Status |
 | :--- | :--- | :--- |
-| **Cloud Sales Analytics** | Next.js, Azure SQL, Blob Storage | 🟢 Active Pipeline |
-| **USG Reporter** | Next.js 14, TypeScript, Docker | 🟢 Deployed |
-| **TripAnchor Verification** | PostgreSQL, Secure Backend APIs | 🟢 Live Monitoring |
+| **Cloud Sales Data Analytics** | Next.js, Azure SQL, Blob Storage | 🟢 Active Pipeline |
+| **Pharmatrack** | Next.js 14, TypeScript, Docker | 🟢 Deployed |
+| **TripAnchor Solution** | PostgreSQL, Secure Backend APIs | 🟢 Live Monitoring |
 
 ---
 
