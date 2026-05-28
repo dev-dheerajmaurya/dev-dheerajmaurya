@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 May 2026 - To: 26 May 2026
+From: 20 May 2026 - To: 27 May 2026
 
 Total Time: 42 mins
 
-Markdown     24 mins               ██████████████░░░░░░░░░░░   55.49 %
-TypeScript   18 mins               ███████████░░░░░░░░░░░░░░   43.38 %
-Other        0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Markdown     24 mins               ██████████▓░░░░░░░░░░░░░░   42.69 %
+TypeScript   18 mins               ████████▒░░░░░░░░░░░░░░░░   33.37 %
+Other        13 mins               ██████░░░░░░░░░░░░░░░░░░░   23.94 %
 ```
 
 <!--END_SECTION:waka-->
