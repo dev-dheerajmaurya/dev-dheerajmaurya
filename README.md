@@ -12,7 +12,7 @@
 
 ---
 
-### 💠 Executive System Status
+### Executive System Status
 * **Location:** India
 * **Current Node:** PharmaTrack — Supply Chain Management for Pharmaceuticals
 * **Architecture Setup:** The project is built as a monorepo, allowing both the Next.js frontend and the Node.js/Express backend to be deployed together seamlessly on Vercel. It utilizes serverless functions for the backend API and connects to a PostgreSQL database managed via Prisma ORM
@@ -20,7 +20,7 @@
 
 ---
 
-### 💻 Technology Modules & Frameworks
+### Technology Modules & Frameworks
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,sql,mongodb,python,js,ts,react,nextjs,nodejs,express,azure,aws,docker,git,linux,tailwind&perline=10&theme=dark" alt="Neon Tech Stack" />
@@ -29,14 +29,14 @@
 
 ---
 
-### 📈 3D Contribution Matrix
+### 3D Contribution Matrix
 <div align="center">
   <img src="https://raw.githubusercontent.com/dev-dheerajmaurya/dev-dheerajmaurya/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
 ---
 
-### ⏱️ Developer Telemetry
+### Developer Telemetry
 
 <!--START_SECTION:waka-->
 
@@ -54,7 +54,7 @@ Other        13 mins               ██████░░░░░░░░░
 
 ---
 
-### 🚀 Live Deployments
+### Live Deployments
 
 | System | Architecture | Status |
 | :--- | :--- | :--- |
