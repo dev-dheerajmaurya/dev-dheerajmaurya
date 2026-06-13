@@ -41,13 +41,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2026 - To: 11 June 2026
+From: 05 June 2026 - To: 12 June 2026
 
-Total Time: 52 mins
+Total Time: 59 mins
 
-Other        57 mins               █████████████░░░░░░░░░░░░   52.39 %
-TypeScript   37 mins               ████████▒░░░░░░░░░░░░░░░░   33.64 %
-SQL          15 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
+Other        57 mins               ████████████▒░░░░░░░░░░░░   49.53 %
+TypeScript   37 mins               ████████░░░░░░░░░░░░░░░░░   31.81 %
+SQL          15 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
+HTML         6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
 ```
 
 <!--END_SECTION:waka-->
